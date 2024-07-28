@@ -1,3 +1,4 @@
+# Hospital Management System
 Setting up the Development Environment: We'll start by configuring your Java development environment, ensuring you have all the necessary tools and libraries.
 
 📊 Creating a Database Schema: You'll discover how to design a database schema tailored for our Hospital Management System using MySQL or your preferred database system. We'll walk you through creating tables for patients, doctors, appointments, and more, while establishing essential relationships and constraints.
